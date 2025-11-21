@@ -20,7 +20,7 @@ Shared services: https://github.com/aleksandrshaulskyi/chat-shared-services
 ## Test it yourself.
 1. Clone all the repositories that are linked to this repository.
 2. Switch to the directory that contains the **chat-shared-services** repository content.
-3. Run ```docker-compose up -d```.
+3. Run ```docker-compose up -d --build```.
 4. Switch to the directory that contains the **chat-auth** repository content.
 5. Run ```docker-compose up -d --build``` to start the auth microservice.
 6. Switch to the directory that contains the **chat-transportation** repository content.
