@@ -10,6 +10,13 @@ For the sake of convinience in the development process at this very moment datab
 This is the index repository or meta repository for my chat system that contain various microservices.
 This repository links all the other repositories together and keeps track of the most recent updates.
 
+## Links.
+
+Authentication microservice: https://github.com/aleksandrshaulskyi/chat-auth
+Transportation microservice: https://github.com/aleksandrshaulskyi/chat-transportation
+Messaging microservice: https://github.com/aleksandrshaulskyi/chat-messaging
+Shared services: https://github.com/aleksandrshaulskyi/chat-shared-services
+
 ## Test it yourself.
 1. Clone all the repositories that are linked to this repository.
 2. Switch to the directory that contains the **chat-shared-services** repository content.
@@ -22,3 +29,7 @@ This repository links all the other repositories together and keeps track of the
 9. Run ```docker-compose up -d --build``` to start the messaging microservice.
 
 The application should be accessible on the **http://localhost:80/**
+
+## Recent updates.
+
+Not yet released.
