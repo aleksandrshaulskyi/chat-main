@@ -25,7 +25,7 @@ Shared services: https://github.com/aleksandrshaulskyi/chat-shared-services
 5. Run ```docker-compose up -d --build``` to start the auth microservice.
 6. Switch to the directory that contains the **chat-transportation** repository content.
 7. Run ```docker-compose up -d --build``` to start the transportation microservice.
-8. 2. Switch to the directory that contains the **chat-messaging** repository content.
+8. Switch to the directory that contains the **chat-messaging** repository content.
 9. Run ```docker-compose up -d --build``` to start the messaging microservice.
 
 The application should be accessible on the **http://localhost:80/**
