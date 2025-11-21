@@ -12,10 +12,10 @@ This repository links all the other repositories together and keeps track of the
 
 ## Links.
 
-Authentication microservice: https://github.com/aleksandrshaulskyi/chat-auth
-Transportation microservice: https://github.com/aleksandrshaulskyi/chat-transportation
-Messaging microservice: https://github.com/aleksandrshaulskyi/chat-messaging
-Shared services: https://github.com/aleksandrshaulskyi/chat-shared-services
+Authentication microservice: https://github.com/aleksandrshaulskyi/chat-auth  
+Transportation microservice: https://github.com/aleksandrshaulskyi/chat-transportation  
+Messaging microservice: https://github.com/aleksandrshaulskyi/chat-messaging  
+Shared services: https://github.com/aleksandrshaulskyi/chat-shared-services  
 
 ## Test it yourself.
 1. Clone all the repositories that are linked to this repository.
