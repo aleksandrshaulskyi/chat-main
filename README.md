@@ -18,9 +18,9 @@ Authentication microservice: https://github.com/aleksandrshaulskyi/chat-auth
 Transportation microservice: https://github.com/aleksandrshaulskyi/chat-transportation  
 Messaging microservice: https://github.com/aleksandrshaulskyi/chat-messaging  
 Shared services: https://github.com/aleksandrshaulskyi/chat-shared-services  
-React/Typescript service: https://github.com/aleksandrshaulskyi/chat-frontend
-Monitoring microservice: https://github.com/aleksandrshaulskyi/chat-monitoring
-Logging microservice: https://github.com/aleksandrshaulskyi/chat-logging
+React/Typescript service: https://github.com/aleksandrshaulskyi/chat-frontend  
+Monitoring microservice: https://github.com/aleksandrshaulskyi/chat-monitoring  
+Logging microservice: https://github.com/aleksandrshaulskyi/chat-logging  
 
 ## Test it yourself.
 1. Clone all the repositories that are linked to this repository.
