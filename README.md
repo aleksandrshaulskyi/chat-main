@@ -1,5 +1,7 @@
 # Chat index repository.
 
+This is my main demo project that is used for the representation of my skills.
+
 ## Disclaimer.
 This application is currently in active development state. Most of it's bugs and imperfections are probably very well known.
 They will be fixed in the very close future.
@@ -16,6 +18,9 @@ Authentication microservice: https://github.com/aleksandrshaulskyi/chat-auth
 Transportation microservice: https://github.com/aleksandrshaulskyi/chat-transportation  
 Messaging microservice: https://github.com/aleksandrshaulskyi/chat-messaging  
 Shared services: https://github.com/aleksandrshaulskyi/chat-shared-services  
+React/Typescript service: https://github.com/aleksandrshaulskyi/chat-frontend
+Monitoring microservice: https://github.com/aleksandrshaulskyi/chat-monitoring
+Logging microservice: https://github.com/aleksandrshaulskyi/chat-logging
 
 ## Test it yourself.
 1. Clone all the repositories that are linked to this repository.
