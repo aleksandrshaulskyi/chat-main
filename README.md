@@ -12,7 +12,7 @@ For the sake of convinience in the development process at this very moment datab
 This is the index repository or meta repository for my chat system that contain various microservices.
 This repository links all the other repositories together and keeps track of the most recent updates.
 
-## Links.
+## Repositories of the project.
 
 Authentication microservice: https://github.com/aleksandrshaulskyi/chat-auth  
 Transportation microservice: https://github.com/aleksandrshaulskyi/chat-transportation  
