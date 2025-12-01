@@ -2,9 +2,9 @@
 
 This is my main demo project that is used for the representation of my skills.
 
-⚠️ Disclaimer
-This project is under active development. Some known issues and rough edges are expected and will be polished soon.
-For development convenience, database containers are temporarily located next to their corresponding microservices.
+> ⚠️ Disclaimer
+> This project is under active development. Some known issues and rough edges are expected and will be polished soon.
+> For development convenience, database containers are temporarily located next to their corresponding microservices.
 
 ## 🚀 Overview
 
