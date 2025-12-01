@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 # Chat index repository.
 
 This is my main demo project that is used for the representation of my skills.
@@ -62,6 +70,7 @@ After all stacks start, the application will be available at:
 
 **👉 http://localhost:80/**
 
-## Recent updates.
+## 🛠️ Status & Recent Updates
 
-Not yet released.
+- Introduced logging to the messaging and transportational services.
+- Built and added kibana dashboards that are ready to be imported and used.
