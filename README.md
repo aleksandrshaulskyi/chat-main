@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 # Chat index repository.
 
 This is my main demo project that is used for the representation of my skills.
