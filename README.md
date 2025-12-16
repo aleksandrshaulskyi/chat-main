@@ -39,6 +39,7 @@ This platform is intentionally built as a demonstration of my experience in desi
 Authentication microservice: https://github.com/aleksandrshaulskyi/chat-auth  
 Transportation microservice: https://github.com/aleksandrshaulskyi/chat-transportation  
 Messaging microservice: https://github.com/aleksandrshaulskyi/chat-messaging  
+Delivery microservice: https://github.com/aleksandrshaulskyi/chat-delivery
 Shared services: https://github.com/aleksandrshaulskyi/chat-shared-services  
 React/Typescript service: https://github.com/aleksandrshaulskyi/chat-frontend  
 Monitoring microservice: https://github.com/aleksandrshaulskyi/chat-monitoring  
@@ -64,5 +65,4 @@ After all stacks start, the application will be available at:
 
 ## 🛠️ Status & Recent Updates
 
-- Introduced logging to the messaging and transportational services.
-- Built and added kibana dashboards that are ready to be imported and used.
+- Updated to implement multisession connections i.e. from mobile, desktop, web etc.
