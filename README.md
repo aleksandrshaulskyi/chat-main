@@ -39,7 +39,7 @@ This platform is intentionally built as a demonstration of my experience in desi
 Authentication microservice: https://github.com/aleksandrshaulskyi/chat-auth  
 Transportation microservice: https://github.com/aleksandrshaulskyi/chat-transportation  
 Messaging microservice: https://github.com/aleksandrshaulskyi/chat-messaging  
-Delivery microservice: https://github.com/aleksandrshaulskyi/chat-delivery
+Delivery microservice: https://github.com/aleksandrshaulskyi/chat-delivery  
 Shared services: https://github.com/aleksandrshaulskyi/chat-shared-services  
 React/Typescript service: https://github.com/aleksandrshaulskyi/chat-frontend  
 Monitoring microservice: https://github.com/aleksandrshaulskyi/chat-monitoring  
